@@ -21,7 +21,8 @@ Access the live site [here](https://kinywa-concept.netlify.app/)
 
 
 ## Screenshots
-<img width="1440" alt="Screenshot 2023-05-02 at 12 27 12" src="https://user-images.githubusercontent.com/86654131/235630319-8eb8db0a-a65e-4f99-a61e-726b2672ec04.png">
+![image](https://github.com/Ruthjebet/heri-homesRealEstate/assets/52103876/7122fec0-bfec-4f87-b254-b273dffc0a93)
+
 
 
 
