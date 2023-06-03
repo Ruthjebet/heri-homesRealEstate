@@ -1,6 +1,6 @@
 # Project Title
 
-    HOUSE HOUNTER
+    Heri-Homes
 
 ## Demo link:
 
@@ -17,7 +17,7 @@ Access the live site [here](https://kinywa-concept.netlify.app/)
 
 ## About The App
 
-[House Hounter] is a real estate site that allows users to see openings and book appointments to view the houses.
+[Heri-Homes] is a real estate site that allows users to see openings and book appointments to view the houses.
 
 
 ## Screenshots
@@ -36,10 +36,3 @@ I used `ReactJS` and `Tailwind CSS`
 - run `npm run dev`
   .
 
-## Credits
-
-👤 **MICHAEL MUNAVU**
-
-- GitHub: [@githubhandle](https://github.com/MICHAELMUNAVU83)
-- Twitter: [@twitterhandle](https://twitter.com/MichaelTrance1)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/michael-munavu-78703a218/)
